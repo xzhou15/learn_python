@@ -1,3 +1,2 @@
-# mycode
-Tracking my code
-Adding a new line
+# learn_python
+My python codes
